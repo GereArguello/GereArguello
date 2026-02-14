@@ -39,9 +39,9 @@ No dudes en contactarme.
 
 ---
 
-## :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+## ⚡ Actividad reciente
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
