@@ -41,6 +41,9 @@ No dudes en contactarme.
 
 ## ⚡ Actividad reciente
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#1](https://github.com/GereArguello/GYM_FastAPI/issues/1) in [GereArguello/GYM_FastAPI](https://github.com/GereArguello/GYM_FastAPI)
+2. ❗ Opened issue [#1](https://github.com/GereArguello/GYM_FastAPI/issues/1) in [GereArguello/GYM_FastAPI](https://github.com/GereArguello/GYM_FastAPI)
+3. ℹ️ Assigned issue [#1](https://github.com/GereArguello/GYM_FastAPI/issues/1) in [GereArguello/GYM_FastAPI](https://github.com/GereArguello/GYM_FastAPI)
 <!--END_SECTION:activity-->
 
 ---
